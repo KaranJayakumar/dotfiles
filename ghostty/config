@@ -1,3 +1,4 @@
 theme=github-light-high-contrast
-window-decoration = false
-gtk-titlebar = false
+window-height=160
+window-width=120
+window-save-state = always
