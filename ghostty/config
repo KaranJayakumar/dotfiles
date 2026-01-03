@@ -1,1 +1,3 @@
 theme=github-light-high-contrast
+window-decoration = false
+gtk-titlebar = false
