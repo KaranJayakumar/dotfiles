@@ -68,5 +68,8 @@ return {
        { "<leader>jj", "<cmd>:Gitsigns blame<cr>", desc = "Blame" },
 
     }
+  },
+  {
+      'numToStr/Comment.nvim',
   }
 }
